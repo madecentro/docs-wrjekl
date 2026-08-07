@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-icnfrx.gulfgottalents.com/sitemap.xml
